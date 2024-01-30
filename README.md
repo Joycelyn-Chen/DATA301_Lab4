@@ -32,9 +32,8 @@ Create a table with the following information:
     7. `createddate` with data type that is a date
 > Use `DESCRIBE vendor;` to double check your work.
 
-
+- Copy and paste the below code to your terminal to create `vendor` table.
 ```
-# code here
 CREATE TABLE vendor (
     id          INT PRIMARY KEY,
     name        VARCHAR(50),
