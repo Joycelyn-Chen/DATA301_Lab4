@@ -45,7 +45,7 @@ CREATE TABLE vendor (
 );
 ```
 
-## Insert
+## [Insert](https://www.w3schools.com/mysql/mysql_insert.asp)
 Insert the following rows into the `vendor` table:
 1. (1, 'UBC Cookie Company', '3333 University Way', 'BC', '00001', 955463.77, '2016-01-02')
 2. (2, 'Salerno Foods', '123 5th Street', 'MA', '14700', 150000.00, '2016-01-04')
@@ -58,10 +58,9 @@ Insert the following rows into the `vendor` table:
 # code here
 
 ```
-- [INSERT statement](https://www.w3schools.com/mysql/mysql_insert.asp)
 
 
-## Update
+## [Update](https://www.w3schools.com/mysql/mysql_update.asp)
 Write the following `UPDATE` statements:
 1. Update all `vendor` `balances` to increase them by 28%.
 2. Update the `vendor` `name` to 'Cookie Company', created `createdate` to '2016-01-25', and `state` to 'CA' for `vendor` with `id` = 1.
@@ -70,10 +69,9 @@ Write the following `UPDATE` statements:
 # code here
 
 ```
-- [Update statement](https://www.w3schools.com/mysql/mysql_update.asp)
 
 
-## Delete
+## [Delete](https://www.w3schools.com/mysql/mysql_delete.asp)
 Write the following `DELETE` statements:
 1. Delete all vendors in the `state` 'IL'.
 2. Delete vendor with `id` = 1.
@@ -82,7 +80,6 @@ Write the following `DELETE` statements:
 # code here
 
 ```
-- [Delete statement](https://www.w3schools.com/mysql/mysql_delete.asp)
 
 +----------------------------------------------------------------------------+
 | **Now load the `lab4.sql`** into your database.                            |
