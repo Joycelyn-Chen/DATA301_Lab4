@@ -83,8 +83,8 @@ Write the following `DELETE` statements:
 
 -  **Now load the `lab4.sql`** into your database.                                                                      
 ```                                                                          
- mysql> source <path_to>/lab4.sql                                                                                                
- ```                                                                        
+mysql> source <path_to>/lab4.sql
+```                                                                        
  - `show tables;`: to check if table is successfully created.               
  - `drop table sales;`: to erase everything if made any mistakes.           
 
@@ -120,5 +120,4 @@ Write the following `DELETE` statements:
 
 
 **Well done!!!**                                                           
-Now rename this file as `studentID.md` and submit on canvas.               
 Enjoy the rest of your week and good luck on midterm!                      
