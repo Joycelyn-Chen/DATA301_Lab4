@@ -88,7 +88,7 @@ Write the following `DELETE` statements:
  - `show tables;`: to check if table is successfully created.               
  - `drop table sales;`: to erase everything if made any mistakes.           
 
-```
+
 ## Query
 1. [Table **sales**] Return the sales records (all fields) for store 12 where the move is less than 30. Limit the result to show only the first 5 rows. 
 - [Select statement](https://www.w3schools.com/mysql/mysql_select.asp)
