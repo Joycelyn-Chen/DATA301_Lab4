@@ -119,8 +119,6 @@ Write the following `DELETE` statements:
 ```
 
 
-+----------------------------------------------------------------------------+
-| **Well done!!!**                                                           |
-| Now rename this file as `studentID.md` and submit on canvas.               |
-| Enjoy the rest of your week and good luck on midterm!                      |
-+----------------------------------------------------------------------------+
+**Well done!!!**                                                           
+Now rename this file as `studentID.md` and submit on canvas.               
+Enjoy the rest of your week and good luck on midterm!                      
