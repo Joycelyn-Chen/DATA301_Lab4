@@ -30,7 +30,6 @@ Create a table with the following information:
     5. `upcprefix` with data type holding exactly 5 characters
     6. `balance` with data type that can hold a currency (money field with up to 10 total digits and 2 decimal places) 
     7. `createddate` with data type that is a date
-> Use `DESCRIBE vendor;` to double check your work.
 
 - Copy and paste the below code to your terminal to create `vendor` table.
 ```
@@ -44,6 +43,7 @@ CREATE TABLE vendor (
     createdate  DATE
 );
 ```
+> Use `DESCRIBE vendor;` to double check your work.
 
 ## [Insert](https://www.w3schools.com/mysql/mysql_insert.asp)
 Insert the following rows into the `vendor` table:
